@@ -1,0 +1,27 @@
+[
+    { "id": 1, "name": "John Doe", "gender": "Male", "salary": 50000 },
+    { "id": 2, "name": "Jane Smith", "gender": "Female", "salary": 55000 },
+    { "id": 3, "name": "Alice Johnson", "gender": "Female", "salary": 60000 },
+    { "id": 4, "name": "Bob Brown", "gender": "Male", "salary": 45000 },
+    { "id": 5, "name": "Charlie Davis", "gender": "Male", "salary": 62000 },
+  { "id": 6, "name": "Emily Wilson", "gender": "Female", "salary": 58000 },
+  { "id": 7, "name": "David Clark", "gender": "Male", "salary": 53000 },
+  { "id": 8, "name": "Sophia Miller", "gender": "Female", "salary": 49000 },
+  { "id": 9, "name": "Michael Taylor", "gender": "Male", "salary": 67000 },
+  { "id": 10, "name": "Olivia Martin", "gender": "Female", "salary": 70000 },
+  { "id": 11, "name": "Lucas Thompson", "gender": "Male", "salary": 61000 },
+  { "id": 12, "name": "Grace Lee", "gender": "Female", "salary": 52000 },
+  { "id": 13, "name": "Ethan Harris", "gender": "Male", "salary": 56000 },
+  { "id": 14, "name": "Ava Lewis", "gender": "Female", "salary": 48000 },
+  { "id": 15, "name": "James Walker", "gender": "Male", "salary": 64000 },
+  { "id": 16, "name": "Lily Hall", "gender": "Female", "salary": 59000 },
+  { "id": 17, "name": "Daniel Allen", "gender": "Male", "salary": 53000 },
+  { "id": 18, "name": "Zoe Young", "gender": "Female", "salary": 62000 },
+  { "id": 19, "name": "Benjamin King", "gender": "Male", "salary": 68000 },
+  { "id": 20, "name": "Hannah Wright", "gender": "Female", "salary": 50000 },
+  { "id": 21, "name": "Henry Scott", "gender": "Male", "salary": 54000 },
+  { "id": 22, "name": "Chloe Green", "gender": "Female", "salary": 55000 },
+  { "id": 23, "name": "Jack Adams", "gender": "Male", "salary": 60000 },
+  { "id": 24, "name": "Victoria Baker", "gender": "Female", "salary": 58000 }
+  ]
+  
